@@ -18,6 +18,7 @@ public class FirstClass {
 		System.out.println("This is the first commit from local burak");
 		
 		System.out.println("The second commit from local burak");
+		System.out.println("This is our conflict");
 		
 	}
 
